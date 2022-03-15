@@ -4,3 +4,7 @@
 #define DZ25_2_DISK_H
 
 #endif
+
+void save ();
+
+void load ();

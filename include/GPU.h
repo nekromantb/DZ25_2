@@ -4,3 +4,5 @@
 #define DZ25_2_GPU_H
 
 #endif
+
+void output();

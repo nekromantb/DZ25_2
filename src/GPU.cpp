@@ -1,5 +1,11 @@
-//
-// Created by nekro on 15.03.2022.
-//
+#include "GPU.h"
+#include <iostream>
+#include "RAM.h"
 
-#include "../include/GPU.h"
+void output ()
+{
+    for (int i =0; i<8; i++) {
+        std::cout << " " << read(i) << " " ;
+    }
+
+}

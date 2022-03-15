@@ -5,3 +5,4 @@
 
 #endif
 
+void compute ();
